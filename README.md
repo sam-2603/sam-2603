@@ -28,10 +28,12 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sam-2603&show_icons=true&theme=tokyonight" />
-</p>
+### 🚀 Projects
+
+#### 📅 Wall Calendar App
+🔗 Live Demo: https://wall-calendar-ruddy.vercel.app  
+💻 Tech: React, Vite, CSS  
+✨ Features: Interactive calendar, date selection, notes, responsive UI
 
 ---
 
