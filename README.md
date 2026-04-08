@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Active+Learner;Future+Entrepreneur;Building+Startups" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Active+Learner;Building+Startups;Building+Real-World+Projects" />
 </p>
 
 ---
