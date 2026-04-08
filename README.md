@@ -28,16 +28,23 @@
 
 ---
 
-### 🚀 Projects
 
-#### 📅 Wall Calendar App
-🔗 Live Demo: https://wall-calendar-ruddy.vercel.app  
-💻 Tech: React, Vite, CSS  
-✨ Features: Interactive calendar, date selection, notes, responsive UI
 
----
 
 ### 🔥 Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sam-2603&theme=tokyonight" />
+</p>
+
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/samarth-koli-283607257/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:samarthkoli2603@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
