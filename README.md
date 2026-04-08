@@ -27,6 +27,11 @@
 - 💻 Strong command over Linux & system operations
 
 ---
+### 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-2603&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+---
 
 ### 📊 GitHub Stats
 <p align="center">
