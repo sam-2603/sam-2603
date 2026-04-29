@@ -16,7 +16,7 @@
 ---
 ### ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,java,express,mongodb,mysql,tailwind,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,java,python,express,mongodb,mysql,tailwind,docker,linux" />
 </p>
 
 ### 🧠 Core Skills
