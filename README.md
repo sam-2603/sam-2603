@@ -25,7 +25,7 @@
 `LLMs` · `RAG` · `LangChain` · `Vector Embeddings` · `Prompt Engineering` · `OpenAI` · `Groq` · `Mistral AI` · `Hugging Face` · `Sarvam AI`
 
 **🧠 Machine Learning & Deep Learning**  
-`Machine Learning` · `Deep Learning` · `Scikit-learn` · `TensorFlow` · `Neural Networks` · `Computer Vision` · `YOLO` · `EasyOCR`
+`Machine Learning` · `Deep Learning` · `Scikit-learn` · `TensorFlow` · `Neural Networks` · `Computer Vision` 
 
 **🐍 Python & Backend**  
 `Python` · `FastAPI` · `Pydantic` · `REST APIs` · `Node.js` · `Express.js`
@@ -40,7 +40,7 @@
 `Docker` · `Git` · `GitHub` · `Render` · `Vercel` · `Linux`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,pytorch,react,nodejs,express,js,mongodb,mysql,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,react,nodejs,express,js,mongodb,postman,mysql,docker,git,github,linux" />
 </p>
 
 ## 🚀 Core Skills
