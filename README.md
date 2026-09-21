@@ -21,17 +21,40 @@
 -  ---
 ### ⚡ Tech Stack
 
+**🤖 Generative AI & LLMs**  
+`LLMs` · `RAG` · `LangChain` · `Vector Embeddings` · `Prompt Engineering` · `OpenAI` · `Groq` · `Mistral AI` · `Hugging Face` · `Sarvam AI`
+
+**🧠 Machine Learning & Deep Learning**  
+`Machine Learning` · `Deep Learning` · `Scikit-learn` · `TensorFlow` · `Neural Networks` · `Computer Vision` · `YOLO` · `EasyOCR`
+
+**🐍 Python & Backend**  
+`Python` · `FastAPI` · `Pydantic` · `REST APIs` · `Node.js` · `Express.js`
+
+**💻 Frontend**  
+`React` · `JavaScript` · `Tailwind CSS`
+
+**🗄️ Databases & Vector Storage**  
+`MongoDB` · `MySQL` · `ChromaDB`
+
+**🚀 Tools & Deployment**  
+`Docker` · `Git` · `GitHub` · `Render` · `Vercel` · `Linux`
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,langchain,react,nodejs,express,js,mongodb,mysql,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,pytorch,react,nodejs,express,js,mongodb,mysql,docker,git,github,linux" />
 </p>
 
-### 🧠 Core Skills
-- ⚡ Full-Stack Development (MERN)
-- 🔐 JWT Authentication & Secure APIs
-- 🐳 Docker & Backend Deployment
-- 🤖 Workflow Automation (n8n)
-- 💻 Strong command over Linux & system operations
+## 🚀 Core Skills
 
+- 🤖 Generative AI, LLMs & AI Application Development
+- 🔎 RAG, Embeddings & ChromaDB
+- 🧠 Machine Learning & Deep Learning
+- 👁️ Computer Vision, YOLO & OCR
+- 🐍 Python, FastAPI & Pydantic
+- 🔌 LLM & AI API Integration
+- 🎙️ Speech-to-Text & AI Pipelines
+- 🐳 Docker, Git & Cloud Deployment
+- 🌐 React, Node.js & Full-Stack Development
+- 🌱 Continuously Learning & Building with Emerging AI Technologies
 ---
 
 
@@ -48,6 +71,11 @@
   <a href="https://www.linkedin.com/in/samarth-koli-283607257/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+    </a>
+  <a href="https://x.com/Samk_2603">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+
   <a href="mailto:samarthkoli2603@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
