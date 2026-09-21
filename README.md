@@ -1,22 +1,28 @@
-<h1 align="center">Hi 👋, I'm Samarth</h1>
-<h3 align="center">Aspiring Software Developer </h3>
+# Hi 👋, I'm Samarth
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Active+Learner;Building+Startups;Building+Real-World+Projects" />
-</p>
+### Aspiring AI / GenAI Engineer
+
+> Building AI-powered applications with LLMs, RAG, vector databases, and modern AI APIs.
 
 ---
 
-### 👨‍💻 About Me
-- 💻 Working with **MERN Stack & Java**
-- 🔐 Exploring the world of **Kali Linux & Ethical Hacking**
-- 🧠 Obsessed with **systems, scalability, and real-world problem solving**
-- ⚡ Turning ideas into execution, not just learning
-- 🚀 Focused on creating impact through technology
----
+## 🤖 About Me
+
+> 🎓 Computer Science graduate exploring the world of **Generative AI & AI Engineering**.
+
+- 🧠 Learning and building with **LLMs, RAG, embeddings, and AI agents**
+- 🛠️ Creating hands-on projects using **Python, LangChain, ChromaDB, and FastAPI**
+- 🤖 Exploring different AI/LLM platforms including **OpenAI, Groq, Mistral AI, Sarvam AI & Hugging Face**
+- 🚀 Interested in turning what I learn into **real-world AI applications**
+- 🌱 Constantly learning new **AI tools, frameworks, and technologies**
+- 💻 Strong foundation in **Python, REST APIs, React, Node.js & MongoDB**
+- 🔍 Curious about how AI systems work and always looking for **something new to learn and build**
+- ⚡ **Aspiring AI Engineer | Builder | Lifelong Learner**
+-  ---
 ### ⚡ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,java,python,express,mongodb,mysql,tailwind,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,langchain,react,nodejs,express,js,mongodb,mysql,docker,git,github,linux" />
 </p>
 
 ### 🧠 Core Skills
