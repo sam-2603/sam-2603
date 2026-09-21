@@ -25,13 +25,13 @@
 `LLMs` · `RAG` · `LangChain` · `Vector Embeddings` · `Prompt Engineering` · `OpenAI` · `Groq` · `Mistral AI` · `Hugging Face` · `Sarvam AI`
 
 **🧠 Machine Learning & Deep Learning**  
-`Machine Learning` · `Deep Learning` · `Scikit-learn` · `TensorFlow` · `Neural Networks` · `Computer Vision` 
+`Machine Learning` · `Deep Learning` · `Scikit-learn` · `TensorFlow` · `Neural Networks` 
 
 **🐍 Python & Backend**  
-`Python` · `FastAPI` · `Pydantic` · `REST APIs` · `Node.js` · `Express.js`
+`Python` · `FastAPI` · `Pydantic` · `REST APIs` · `Node.js` 
 
 **💻 Frontend**  
-`React` · `JavaScript` · `Tailwind CSS`
+`React` · `Vite` · `JavaScript`  · `Tailwind CSS`
 
 **🗄️ Databases & Vector Storage**  
 `MongoDB` · `MySQL` · `ChromaDB`
